@@ -1,4 +1,4 @@
-# Research Internship for Undergraduates
+# Research Internships for Undergraduates
 
 #### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
 
@@ -9,7 +9,7 @@ The following are some global research internship positions:
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
+5. ~~CRUISE Program by Georgia Tech University~~
 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
@@ -34,6 +34,8 @@ The following are some global research internship positions:
 27. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 28. The Smithsonian Institution Fellowship Program (SIFP)(https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
 27. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute.
+28. [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
+29. [Aalto Science Institute (AScI) Summer Trainees 2021](https://www.aalto.fi/en/open-positions/aalto-science-institute-asci-summer-trainees-2021)
 
 The following are some research internships for Indian students:
 
